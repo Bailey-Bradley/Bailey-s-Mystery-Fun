@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Baybird"
+		],
+		"product_type": "addon"
+	},
+	"header": {
+		"name": "BAYBIRD'S MYSTERY FUN RESOURCES!!",
+		"description": "Really?!?! You'll let me put whatever 3D models, textures, and sound effects I want on your computer?! Thanks bubby!!! *eats you alive*",
+		"min_engine_version": [
+			1,
+			21,
+			20
+		],
+		"uuid": "fe0e8a76-c440-42c6-9579-fa3df0ac6c3e",
+		"version": [
+			12,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "cbbb46d0-47a6-4d86-8c26-4cdb1f72e397",
+			"version": [
+				12,
+				0,
+				0
+			]
+		}
+	]
+}

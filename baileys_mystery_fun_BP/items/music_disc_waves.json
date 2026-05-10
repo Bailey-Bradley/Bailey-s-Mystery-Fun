@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "moremusicdiscs:music_disc_waves",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.record"
+      }
+    },
+    "components": {
+      "minecraft:icon": "moremusicdiscs:music_disc_waves",
+      "minecraft:display_name": {
+        "value": "§e%item.record.name\n§7Gwyd - Waves"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:tags": {
+        "tags": [
+          "sound:record.moremusicdiscs:waves",
+          "duration:90",
+          "name:Gwyd - Waves",
+          "minecraft:is_music_disc"
+        ]
+      }
+    }
+  }
+}

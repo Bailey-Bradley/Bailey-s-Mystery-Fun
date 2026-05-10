@@ -1,0 +1,53 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Baybird"
+		],
+		"product_type": "addon"
+	},
+	"header": {
+		"name": "BAYBIRD'S MYSTERY FUN BEHAVIORS!!",
+		"description": "Now I can control whatever I want in your little world?!?! By Jove!! Thanks squirt! *puts shirt back on*",
+		"min_engine_version": [
+			1,
+			21,
+			20
+		],
+		"uuid": "df109d01-009f-49c3-88af-ba7afb6e1e6f",
+		"version": [
+			12,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f32f61a6-f0fd-46d9-99a6-9bce6f954b04",
+			"version": [
+				12,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"entry": "main.js",
+			"uuid": "092a7041-66b2-4acf-b0d6-71bc3010dd78",
+			"version": [
+				12,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.3.0"
+		},
+		{"uuid": "a13b3be6-d870-42e7-8a8b-2e9d01b03d26", "version": [11, 0, 0]}
+	]
+}

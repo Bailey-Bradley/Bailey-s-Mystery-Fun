@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20.20",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "moremusicdiscs:music_disc_the_ender_dragon"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "dragon_egg",
+                "count": 1
+            }
+        ],
+        "unlock": [
+            {
+                "item": "dragon_egg"
+            }
+        ],
+        "result": {
+            "item": "moremusicdiscs:music_disc_the_ender_dragon",
+            "count": 1
+        }
+    }
+}

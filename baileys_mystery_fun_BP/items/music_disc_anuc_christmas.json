@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "moremusicdiscs:anuc_christmas",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.record"
+      }
+    },
+    "components": {
+      "minecraft:icon": "moremusicdiscs:music_disc_a_quiet_place",
+      "minecraft:display_name": {
+        "value": "§e%item.record.name\n§Anuc7777 - A Very Anuc Christmas"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:tags": {
+        "tags": [
+          "sound:record.moremusicdiscs:anuc_christmas",
+          "duration:150",
+          "name:Anuc7777 - The Christmas Song",
+          "minecraft:is_music_disc"
+        ]
+      }
+    }
+  }
+}

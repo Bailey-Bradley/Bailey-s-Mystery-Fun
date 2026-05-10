@@ -1,0 +1,213 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "record.moremusicdiscs:a_quiet_place": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/a_quiet_place",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:anti": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/anti",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:caravan": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/caravan",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:chill": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/chill",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:fort_stress": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/fort_stress",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:ice": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/ice",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:iron_oath": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/iron_oath",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:mineshaft": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/mineshaft",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:omen": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/omen",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:storm": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/storm",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:tall": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/tall",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:tide": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/tide",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:travel": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/travel",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:waves": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/waves",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:wither_storm_theme": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/wither_storm_theme",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "record.moremusicdiscs:the_ender_dragon": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/moremusicdiscs/music/game/records/the_ender_dragon",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    }
+  }
+}
