@@ -11,7 +11,7 @@
     "components": {
       "minecraft:icon": "bmf:anuc_christmas_cd",
       "minecraft:display_name": {
-        "value": "§e%item.record.name\n§Anuc7777 - A Very Anuc Christmas"
+        "value": "§e%item.record.name\n§7Anuc7777 - A Very Anuc Christmas"
       },
       "minecraft:max_stack_size": 1,
       "minecraft:tags": {
