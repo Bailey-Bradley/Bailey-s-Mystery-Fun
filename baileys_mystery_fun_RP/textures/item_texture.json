@@ -2,8 +2,8 @@
   "resource_pack_name": "Custom Jukebox Template 1.20",
   "texture_name": "atlas.items",
   "texture_data": {
-    "bmf:anuc_christmas_disc": {
-      "textures": "textures/music_discs/anuc_christmas_disc"
+    "bmf:anuc_christmas_cd": {
+      "textures": "textures/music_discs/CD_anuc7777"
     }
   }
 }
