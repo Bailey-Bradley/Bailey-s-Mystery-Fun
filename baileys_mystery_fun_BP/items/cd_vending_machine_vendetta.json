@@ -2,23 +2,23 @@
   "format_version": "1.21.40",
   "minecraft:item": {
     "description": {
-      "identifier": "bmf:anuc_christmas",
+      "identifier": "bmf:cd_vending_machine_vendetta",
       "menu_category": {
         "category": "items",
         "group": "itemGroup.name.record"
       }
     },
     "components": {
-      "minecraft:icon": "bmf:anuc_christmas_cd",
+      "minecraft:icon": "bmf:vending_machine_vendetta_cd",
       "minecraft:display_name": {
-        "value": "§e%item.record.name\n§7Anuc7777 - A Very Anuc Christmas"
+        "value": "§eCD\n§7Stanley Johnson - Vending Machine Vendetta"
       },
       "minecraft:max_stack_size": 1,
       "minecraft:tags": {
         "tags": [
-          "sound:bmf:anuc_christmas",
+          "sound:bmf:vending_machine_vendetta",
           "duration:150",
-          "name:Anuc7777 - The Christmas Song",
+          "name:Stanley Johnson - Vending Machine Vendetta",
           "minecraft:is_music_disc"
         ]
       }

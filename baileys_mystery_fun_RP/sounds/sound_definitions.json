@@ -13,6 +13,97 @@
           "volume": 1
         }
       ]
+    },
+    "bmf:clanker": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/clanker",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "bmf:henry": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/henry",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "bmf:hood_psalms": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/hood_psalms",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "bmf:scott_free": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/scott_free",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "bmf:stan": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/stan",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "bmf:vending_machine_vendetta": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/vending_machine_vendetta",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "bmf:dreams_for_dreams": {
+      "__use_legacy_max_distance": true,
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_discs/game/records/dreams_for_dreams",
+          "stream": true,
+          "volume": 1
+        }
+      ]
     }
   }
 }

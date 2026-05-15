@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "bmf:cd_hood_psalms",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.record"
+      }
+    },
+    "components": {
+      "minecraft:icon": "bmf:hood_psalms_cd",
+      "minecraft:display_name": {
+        "value": "§eCD\n§7Stanley Johnson - Hood Psalms"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:tags": {
+        "tags": [
+          "sound:bmf:hood_psalms",
+          "duration:150",
+          "name:Stanley Johnson - Hood Psalms",
+          "minecraft:is_music_disc"
+        ]
+      }
+    }
+  }
+}

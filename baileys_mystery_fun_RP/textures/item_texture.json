@@ -4,6 +4,27 @@
   "texture_data": {
     "bmf:anuc_christmas_cd": {
       "textures": "textures/music_discs/CD_anuc7777"
+    },
+    "bmf:clanker_cd": {
+      "textures": "textures/music_discs/CD_clanker"
+    },
+    "bmf:dreams_for_dreams_cd": {
+      "textures": "textures/music_discs/CD_dreams_for_dreams"
+    },
+    "bmf:henry_cd": {
+      "textures": "textures/music_discs/CD_henry"
+    },
+    "bmf:hood_psalms_cd": {
+      "textures": "textures/music_discs/CD_hood_psalms"
+    },
+    "bmf:scott_free_cd": {
+      "textures": "textures/music_discs/CD_scott_free"
+    },
+    "bmf:stan_cd": {
+      "textures": "textures/music_discs/CD_stan"
+    },
+    "bmf:vending_machine_vendetta_cd": {
+      "textures": "textures/music_discs/CD_vending_machine_vendetta"
     }
   }
 }

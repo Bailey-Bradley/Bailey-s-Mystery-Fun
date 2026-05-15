@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "bmf:cd_henry",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.record"
+      }
+    },
+    "components": {
+      "minecraft:icon": "bmf:henry_cd",
+      "minecraft:display_name": {
+        "value": "§eCD\n§7Stanley Johnson - Henry"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:tags": {
+        "tags": [
+          "sound:bmf:henry",
+          "duration:150",
+          "name:Stanley Johnson - Henry",
+          "minecraft:is_music_disc"
+        ]
+      }
+    }
+  }
+}

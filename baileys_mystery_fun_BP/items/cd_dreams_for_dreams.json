@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "bmf:cd_dreams_for_dreams",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.record"
+      }
+    },
+    "components": {
+      "minecraft:icon": "bmf:dreams_for_dreams_cd",
+      "minecraft:display_name": {
+        "value": "§eCD\n§7Stanley Johnson - Dreams For Dreams"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:tags": {
+        "tags": [
+          "sound:bmf:dreams_for_dreams",
+          "duration:150",
+          "name:Stanley Johnson - Dreams For Dreams",
+          "minecraft:is_music_disc"
+        ]
+      }
+    }
+  }
+}
